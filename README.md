@@ -1,5 +1,7 @@
 ![nem token sale](/readme-images/nemtokensale.png?raw=true "NEM Token Sale")
 
+# Fork of the Cache Token Sale website, which I built the front end for, for Blockstart as an open source project. Forked for preservation and visibility for my portfolio.
+
 # NEM Coinbase Token Sale Website
 
 This repo provides all of the code needed to operate a token sale on the [NEM](https://nem.io) blockchain. 
